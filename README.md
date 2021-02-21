@@ -53,10 +53,12 @@
 </a>
 
 <br>
+<br>
 <a href="https://github.com/sagnik1511/IPL_analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
 </a>
 
+<br>
 <br>
 <a href="https://github.com/sagnik1511/Fashion-MNIST-prediction-with-ConvNet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
