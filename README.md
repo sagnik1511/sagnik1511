@@ -42,8 +42,10 @@
 
 
 ![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact)
+<br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact">
+  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact" />
+</a>
 
 ## My most popular repositories :
 
