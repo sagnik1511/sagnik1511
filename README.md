@@ -32,11 +32,13 @@
 
 1. Coder by passion 👨🏽‍💻.
 2. Currently persuing my B.Tech in IT 👨🏻‍🎓🏛.
-3. 👀Actively looking for a DL/ML internships.
-4. Learning NLP and advanced Computer Visison✌🏻.
-5. Ask me about Python,C++,Octave💻.
-6. Life Long Learner 🕵🏻‍♂️.
-7. Love to be a nerd😂.
+3. Specialization over Data Visualization with Python 📊 📈 📉.
+4. Possess knowledge over Image Processing, Hyperparameter Tuning and statistical Machine Learning Models📜 📃.
+5. Learning NLP and Advanced Computer Vision✌🏻.
+6. Ask me about Python,C++,Octave💻.
+7. 👀Actively looking for a DL/ML internships.
+8. Life Long Learner 🕵🏻‍♂️.
+9. Love to be a nerd😂.
 
 
 
