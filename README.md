@@ -25,7 +25,10 @@
 <a href="https://twitter.com/Agnik1511S">
   <img align="left" alt="Sagnik Roy - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
+<br>
+<br>
 
+![](https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif)
 
 <br>
 <br>
