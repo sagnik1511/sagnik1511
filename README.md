@@ -26,12 +26,6 @@
   <img align="left" alt="Sagnik Roy - Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 <br>
-<br>
-
-![](https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif)
-
-<br>
-<br>
 
 ### My daily used-tech :
 
@@ -89,5 +83,4 @@
 </a>
 <br><br><br><br>
 
-
-![](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
+![](https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif)
