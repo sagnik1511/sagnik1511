@@ -25,7 +25,7 @@
 <a href="https://twitter.com/Agnik1511S">
   <img align="left" alt="Sagnik Roy - Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<br>
+
 
 ### My daily used-tech :
 
