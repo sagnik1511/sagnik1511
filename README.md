@@ -33,6 +33,22 @@
 <br>
 <br>
 
+### My daily used-tech :
+
+
+ <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+ <img align="left" alt="Jupyter-Notebook" width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/>
+ <img align="left" alt="Spyder IDE" width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/>
+ <img align="left" alt="IBM-Watson" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/>
+ <img align="left" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/>
+ <img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>
+ <img align="left" alt="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/>
+ <img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
+ <img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/>
+<br><br>
+
+### About Me :
+
 1. Coder by passion 👨🏽‍💻.
 2. Currently persuing my B.Tech in IT 👨🏻‍🎓🏛.
 3. Specialization over Data Visualization with Python 📊 📈 📉.
@@ -61,10 +77,19 @@
 </a>
 
 
-<a href="https://github.com/sagnik1511/IPL_analysis">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
+<a href="https://github.com/sagnik1511/Lifely">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
 </a>
 <br>
-<br><br><br><br><br><br><br><br>
+
+<a href="https://github.com/sagnik1511/IPL_analysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
+</a>
+<br>
+<a href="https://github.com/sagnik1511/Fashion-MNIST-prediction-with-ConvNet">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
+</a>
+<br><br>
+
 
 ![](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
