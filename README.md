@@ -36,9 +36,11 @@
 <img align="left" alt="IBM-Watson" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/>
 <img align="left" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/>
 <img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>
+<img align="left" alt="Tableau" width="40px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
 <img align="left" alt="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/>
 <img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
 <img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/>
+
  
  <br><br>
 
