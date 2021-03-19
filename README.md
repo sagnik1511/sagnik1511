@@ -80,16 +80,14 @@
 <a href="https://github.com/sagnik1511/Lifely">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
 </a>
-<br>
 
 <a href="https://github.com/sagnik1511/IPL_analysis">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
 </a>
-<br>
 <a href="https://github.com/sagnik1511/Fashion-MNIST-prediction-with-ConvNet">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
 </a>
-<br><br>
+<br><br><br><br>
 
 
 ![](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
