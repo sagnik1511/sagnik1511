@@ -25,7 +25,6 @@
 <a href="https://twitter.com/Agnik1511S">
   <img align="left" alt="Sagnik Roy - Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<br>
 
 
 
@@ -41,8 +40,7 @@
  <img align="left" alt="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/>
  <img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
  <img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/>
-<br>
-
+ 
 
 ### About Me :
 
