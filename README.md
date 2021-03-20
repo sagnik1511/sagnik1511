@@ -46,15 +46,15 @@
 
 ### About Me :
 
-1. Coder by passion 👨🏽‍💻.
-2. Currently persuing my B.Tech in IT 👨🏻‍🎓🏛.
-3. Specialization over Data Visualization with Python 📊 📈 📉.
-4. Possess knowledge over Image Processing, Hyperparameter Tuning and statistical Machine Learning Models📜 📃.
-5. Learning NLP and Advanced Computer Vision✌🏻.
-6. Ask me about Python,C++,Octave💻.
-7. 👀Actively looking for a DL/ML internships.
-8. Life Long Learner 🕵🏻‍♂️.
-9. Love to be a nerd😂.
+● Coder by passion 👨🏽‍💻.
+● Currently persuing B.Tech in IT 👨🏻‍🎓🏛.
+● Specialization over Data Visualization with Python 📊 📈 📉.
+● Possess knowledge over Image Processing, Hyperparameter Tuning and statistical Machine Learning Models📜 📃.
+● Learning NLP and Advanced Computer Vision✌🏻.
+● Ask me about Python,C++,Octave💻.
+● 👀Actively looking for a DL/ML internships.
+● Life Long Learner 🕵🏻‍♂️.
+● Love to be a nerd😂.
 
 
 
