@@ -77,14 +77,15 @@
 ## My most popular repositories :
 
 
-<a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
-</a>
-
-
 <a href="https://github.com/sagnik1511/Lifely">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
 </a>
+
+
+<a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
+</a>
+
 
 <a href="https://github.com/sagnik1511/IPL_analysis">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
