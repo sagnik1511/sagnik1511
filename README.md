@@ -34,6 +34,7 @@
 <img align="left" alt="Jupyter-Notebook" width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/>
 <img align="left" alt="Spyder IDE" width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/>
 <img align="left" alt="IBM-Watson" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/>
+<img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
 <img align="left" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/>
 <img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>
 <img align="left" alt="Tableau" width="40px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
