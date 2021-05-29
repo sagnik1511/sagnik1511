@@ -77,22 +77,21 @@
 
 ## My most popular repositories :
 
+<a href="https://github.com/sagnik1511/Loan-Web">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Loan-Web" />
+</a>
 
 <a href="https://github.com/sagnik1511/Lifely">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
 </a>
 
 
 <a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
 </a>
 
-
-<a href="https://github.com/sagnik1511/IPL_analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
-</a>
-<a href="https://github.com/sagnik1511/Fashion-MNIST-prediction-with-ConvNet">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
+<a href="https://github.com/sagnik1511/Tabular-Playground-Series">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Tabular-Playground-Series" />
 </a>
 <br><br><br><br>
 
