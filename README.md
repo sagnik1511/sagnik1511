@@ -70,6 +70,9 @@
 
 ![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=cobalt)
 <br>
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00">
+
 <br><br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact">
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact" />
