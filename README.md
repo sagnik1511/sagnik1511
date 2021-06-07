@@ -84,17 +84,17 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Loan-Web" />
 </a>
 
-<a href="https://github.com/sagnik1511/Lifely">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
+<a href="https://github.com/sagnik1511/Graphly">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Graphly" />
 </a>
 
+
+<a href="https://github.com/sagnik1511/Lifely">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
+</a>
 
 <a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
-</a>
-
-<a href="https://github.com/sagnik1511/Tabular-Playground-Series">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Tabular-Playground-Series" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
 </a>
 <br><br><br><br>
 
