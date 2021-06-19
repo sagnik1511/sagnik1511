@@ -1,72 +1,51 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF412&size=65&lines=Namaste+%F0%9F%99%8F+I'm+Sagnik;a+Machine+Learning+Enthusiast+from+JGEC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF412&size=59&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Namaste+%F0%9F%99%8F+I'm+Sagnik;A+Machine+Learning+Enthusiast+;from+JGEC%2C+India.)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{sagnik1511}/count.svg" alt="sagnik1511" /> </p>
 
+<p align=center><img width="660px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
 
-<h3 align="left">Connect with me :</h3>
-<a href="https://www.linkedin.com/in/sagnik-roy-4791b0192">
-  <img align="left" alt="Sagnik Roy - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-<a href="https://www.facebook.com/sagnik.roy.73345">
-  <img align="left" alt="Sagnik Roy - Facebook" width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>
-</a>
-<a href="https://www.instagram.com/tensored___">
-  <img align="left" alt="Sagnik Roy - Instagram" width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-</a>
-<a href="https://kaggle.com/sagnik1511">
-  <img align="left" alt="Sagnik Roy - Kaggle" width="40px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/>
-</a>
-<a href="https://www.codechef.com/users/sagnik1511">
-  <img align="left" alt="Sagnik Roy - Codechef" width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
-</a>
-<a href="https://dev.to/agnik1511s">
-  <img align="left"  alt="Sagnik Roy - DEV" width="40px"src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
-</a>
-<a href="https://twitter.com/Agnik1511S">
-  <img align="left" alt="Sagnik Roy - Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-</a>
+<h3 align="center">Connect with me :</h3>
+<p align=center>
+<a target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
+<a target="_blank"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
+<a target="_blank"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+<a target="_blank"><img width="40px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
+<a target="_blank"><img width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a>
+<a target="_blank"><img width="40px"src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px"></a>
+<a target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
+  </p>
 
 <br>
+<h3 align=center>My daily used-tech :</h3>
 
-### My daily used-tech :
+ <p align=center>
+  <a target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
+  <a target="_blank"><img width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/></a> 
+  <a target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/></a> 
+  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
+</p>
 
-
- <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
- <img align="left" alt="Jupyter-Notebook" width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/>
- <img align="left" alt="Spyder IDE" width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/>
- <img align="left" alt="IBM-Watson" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/>
- <img align="left" alt="Git" width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/>
- <img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>
- <img align="left" alt="GNU Octave" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/>
- <img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
- <img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/>
  
  <br>
 
-### About Me :
+<h1 align=center>About Me :</h1>
 
-1. Coder by passion 👨🏽‍💻.
-2. Currently persuing my B.Tech in IT 👨🏻‍🎓🏛.
-3. Specialization over Data Visualization with Python 📊 📈 📉.
-4. Possess knowledge over Image Processing, Hyperparameter Tuning and statistical Machine Learning Models📜 📃.
-5. Learning NLP and Advanced Computer Vision✌🏻.
-6. Ask me about Python,C++,Octave💻.
-7. 👀Actively looking for a DL/ML internships.
-8. Life Long Learner 🕵🏻‍♂️.
-9. Love to be a nerd😂.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3597F4&size=28&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=Coder+by+passion+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Currently+persuing+B.Tech+in+IT+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93%F0%9F%8F%9B;Specialization+over+Data+Visualization+with+Python+%F0%9F%93%8A+%F0%9F%93%88+%F0%9F%93%89;Possess+knowledge+over+Image+Processing%2C+Hyperparameter;Tuning+and+statistical+Machine+Learning+Models%F0%9F%93%9C+%F0%9F%93%83;Learning+NLP+and+Advanced+Computer+Vision%E2%9C%8C%F0%9F%8F%BB;Ask+me+about+Python%2CC%2B%2B%2COctave%F0%9F%92%BB;%F0%9F%91%80Actively+looking+for+a+DL%2FML+internships;Love+to+be+a+nerd%F0%9F%98%82;Life+Long+Learner+%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+%E2%9C%88)](https://git.io/typing-svg)
 
 
+<p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00"></p>
 
+<p align=center><img src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=cobalt"></p>
 
-![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=cobalt)
-<br>
-<br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact">
-  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact" />
-</a>
+<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact"></p>
 
-## My most popular repositories :
+<h2 align=center><u>My features Respositories</u></h2>
 
 
 <a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
@@ -85,5 +64,3 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
 </a>
 <br><br><br><br>
-
-![](https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif)
