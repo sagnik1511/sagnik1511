@@ -41,26 +41,34 @@
 
 <p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00"></p>
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=cobalt"></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=merko"></p>
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact"></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511"></p>
 
-<h2 align=center><u>My features Respositories</u></h2>
+<u><h2 align=center>My features Respositories</h2></u>
 
 
-<a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
+<p align=center><a href="https://github.com/sagnik1511/Loan-Web">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Loan-Web" />
 </a>
 
 
 <a href="https://github.com/sagnik1511/Lifely">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Lifely" />
 </a>
 
-<a href="https://github.com/sagnik1511/IPL_analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=IPL_analysis" />
+<a href="https://github.com/sagnik1511/Graphly">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Graphly" />
 </a>
-<a href="https://github.com/sagnik1511/Fashion-MNIST-prediction-with-ConvNet">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Fashion-MNIST-prediction-with-ConvNet" />
+<a href="https://github.com/sagnik1511/U-Net-Reduced-with-keras">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=U-Net-Reduced-with-Keras" />
 </a>
+<a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
+</a>
+<a href="https://github.com/sagnik1511/Flower-Recognition-with-CNN-">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Flower-Recognition-with-CNN-" />
+</a>
+
+</p>
 <br><br><br><br>
