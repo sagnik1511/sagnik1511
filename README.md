@@ -7,13 +7,13 @@
 
 <h3 align="center">Connect with me :</h3>
 <p align=center>
-<a target="_blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
-<a target="_blank"><img width="60px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-<a target="_blank"><img width="60px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-<a target="_blank"><img width="60px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
-<a target="_blank"><img width="60px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a>
-<a target="_blank"><img width="60px"src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px"></a>
-<a target="_blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/sagnik-roy-4791b0192/"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
+<a target="_blank" href="https://www.facebook.com/sagnik.roy.73345/"><img width="60px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
+<a target="_blank" href="https://www.instagram.com/tensored___/"><img width="60px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+<a target="_blank" href="https://www.kaggle.com/sagnik1511"><img width="60px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
+<a target="_blank" href="https://www.codechef.com/users/s_agnik1511"><img width="60px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a>
+<a target="_blank" href="https://dev.to/agnik1511s"><img width="60px"src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px"></a>
+<a target="_blank" href="https://twitter.com/Agnik1511S"><img width="60px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
   </p>
 
 <br>
