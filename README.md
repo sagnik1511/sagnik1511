@@ -29,6 +29,7 @@
   <a target="_blank"><img  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/></a>
   <a target="_blank"><img  width="60px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
   <a target="_blank"><img  width="60px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"/></a>
 </p>
 
  
