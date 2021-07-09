@@ -28,12 +28,12 @@
   <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/></a>
   <a target="_blank"><img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/></a>
   <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
-  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
+  <a target="_blank"><img  width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
   <a target="_blank"><img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"/></a>
   <a target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 </p>
 
- 
+
  <br>
 
 <h1 align=center>About Me :</h1>
