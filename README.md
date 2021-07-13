@@ -47,7 +47,7 @@
 
 <p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511"></p>
 
-<u><h2 align=center>My features Respositories</h2></u>
+<u><h2 align=center>My featured Respositories</h2></u>
 
 
 <p align=center><a href="https://github.com/sagnik1511/Loan-Web">
