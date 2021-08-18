@@ -74,3 +74,4 @@
 
 </p>
 
+<p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sagnik1511"/></a></p>
