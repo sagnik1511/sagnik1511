@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://profile-counter.glitch.me/{sagnik1511}/count.svg" alt="sagnik1511" /> </p>
 <p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sagnik1511"/></a></p>
 
-<p align=center><img width="660px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
+<p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
 
 <h3 align="center">Connect with me :</h3>
 <p align=center>
