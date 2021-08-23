@@ -42,11 +42,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3597F4&size=28&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=Coder+by+passion+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Currently+persuing+B.Tech+in+IT+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93%F0%9F%8F%9B;Deeply+tied+with+Image+Processing%2C+Hyperparameter;Tuning+and+statistical+Machine+Learning+Models%F0%9F%93%9C+%F0%9F%93%83;Learning+NLP+and+Advanced+Computer+Vision%E2%9C%8C%F0%9F%8F%BB;Specialization+over+Data+Visualization+with+Python+%F0%9F%93%8A+%F0%9F%93%88+%F0%9F%93%89;Ask+me+about+Python%2CC%2B%2B%2COctave%F0%9F%92%BB;Actively+looking+for+DL%2FML+internships%F0%9F%91%80;Love+to+be+a+nerd%F0%9F%98%82;Life+Long+Learner+%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+%E2%9C%88)](https://git.io/typing-svg)
 
 [![Sagnik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sagnik1511&theme=xcode&line=69bb20&point=69bb84)](https://github.com/sagnik1511)
-<p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00&theme=merko"></p>
+<p align=center><img width = "300px" src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00&theme=merko">&nbsp;<img width = "300px" src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=merko">&nbsp;<img width = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511"></p>
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=merko"></p>
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511"></p>
 
 <u><h2 align=center>My featured Respositories</h2></u>
 
