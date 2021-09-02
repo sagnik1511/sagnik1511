@@ -62,7 +62,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Graphly" />
 </a>
 <a href="https://github.com/sagnik1511/U-Net-Reduced-with-keras">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=U-Net-Reduced-with-Keras" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=U-Net-Reduced-with-TF-Keras" />
 </a>
 <a href="https://github.com/sagnik1511/Style-Transfer-with-Python">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sagnik1511&repo=Style-Transfer-with-Python" />
