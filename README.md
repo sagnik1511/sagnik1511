@@ -13,7 +13,6 @@
 <a target="_blank" href="https://www.instagram.com/tensored___/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
 <a target="_blank" href="https://www.kaggle.com/sagnik1511"><img width="40px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
 <a target="_blank" href="https://www.codechef.com/users/s_agnik1511"><img width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a>
-<a target="_blank" href="https://dev.to/agnik1511s"><img width="40px"src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px"></a>
 <a target="_blank" href="https://twitter.com/Agnik1511S"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
   </p>
 
