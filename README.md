@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF412&size=59&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Namaste+%F0%9F%99%8F+I'm+Sagnik;A+Machine+Learning+Enthusiast+;from+JGEC%2C+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF412&size=40&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Namaste+%F0%9F%99%8F+I'm+Sagnik;A+Machine+Learning+Enthusiast+;from+JGEC%2C+India.)](https://git.io/typing-svg)
+<div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
 
 <p align="center"> <img width="300px" src="https://profile-counter.glitch.me/{sagnik1511}/count.svg" alt="sagnik1511" /> </p>
 <p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sagnik1511"/></a></p>
