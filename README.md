@@ -21,7 +21,7 @@
 <h3 align=center>My daily used-tech :</h3>
 
  <p align=center>
-  <a target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
+  <a target="_blank"><img width="41px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
   <a target="_blank"><img width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/></a>
   <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/></a> 
   <a target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/></a> 
