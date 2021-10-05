@@ -43,7 +43,7 @@
 
 [![Sagnik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sagnik1511&theme=xcode&line=69bb20&point=69bb84)](https://github.com/sagnik1511)
 <p align=center><img width = "300px" src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00&theme=merko">&nbsp;<img width = "300px" src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=merko">&nbsp;</p>
-<p align="center"><img width = "350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact">&nbsp;<img width="425px" src="https://github-readme-stats.vercel.app/api/wakatime?usernamesagnik1511&layout=compact"></p>
+<p align="center"><img width = "350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511&layout=compact"></p>
 
 
 
