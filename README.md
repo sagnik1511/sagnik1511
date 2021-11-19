@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF412&size=40&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Namaste+%F0%9F%99%8F+I'm+Sagnik;A+Machine+Learning+Enthusiast+;from+JGEC%2C+India.)](https://git.io/typing-svg)
+
 <div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
 
 <p align="center"> <img width="250px" src="https://profile-counter.glitch.me/{sagnik1511}/count.svg" alt="sagnik1511" /> </p>
@@ -36,6 +37,8 @@
 
 
  <br>
+
+<div><img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/sagnik1511/competition">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/sagnik1511/dataset">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/sagnik1511/notebook">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/badges/sagnik1511/discussion"></div>
 
 <h1 align=center>About Me :</h1>
 
