@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Roy</h1>
 
 <h3 align="center">
-Building scalable data infrastructure, market data systems and machine learning applications.
+Building scalable data infrastructure,Trading systems and machine learning applications.
 </h3>
 
 <p align="center">
@@ -180,7 +180,7 @@ Learning systems programming through
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sagnik.jal00@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -191,4 +191,3 @@ Learning systems programming through
 <p align="center">
 <i>"Building reliable software, one commit at a time."</i>
 </p>
-```
